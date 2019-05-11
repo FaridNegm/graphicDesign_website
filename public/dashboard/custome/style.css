@@ -1,0 +1,22 @@
+.help-block strong{
+    color: red;
+    font-size: 14px;
+}
+
+.session{
+    width: 40%;
+    margin: 0px auto;
+    text-align: center;
+    background-color: #4bbd89;
+    color: #fff;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1000;
+}
+
+/*.session .alert strong{*/
+    /*width: 40%;*/
+    /*margin: 0px auto;*/
+    /*text-align: center;*/
+/*}*/
